@@ -1,35 +1,26 @@
 [
     {
-        "first_day": [
-            {
-                "teacher": "Лиса Н.К.",
-                "room": 807,
-                "campus": "V",
-                "type": "Лекція"
-            },
-
-            {
-                "teacher": "Лиса Н.К.",
-                "room": 807,
-                "campus": "V",
-                "type": "Лекція"
-            },
-
-
-
-            {
-                "teacher": "Качан С.І.",
-                "room": 132,
-                "campus": "III",
-                "type": "Лекція"
-            },
-
-            {
-                "teacher": "Качан С.І.",
-                "room": 132,
-                "campus": "III",
-                "type": "Лекція"
-            }
-        ]
+        "teacher": "Лиса Н.К.",
+        "room": 807,
+        "campus": "V",
+        "type": "Лекція"
+    },
+    {
+        "teacher": "Лиса Н.К.",
+        "room": 807,
+        "campus": "V",
+        "type": "Лекція"
+    },
+    {
+        "teacher": "Качан С.І.",
+        "room": 132,
+        "campus": "III",
+        "type": "Лекція"
+    },
+    {
+        "teacher": "Качан С.І.",
+        "room": 132,
+        "campus": "III",
+        "type": "Лекція"
     }
 ]
